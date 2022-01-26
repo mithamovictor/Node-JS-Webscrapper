@@ -1,0 +1,25 @@
+{
+  "name": "node-js-webscrapper",
+  "version": "1.0.0",
+  "description": "This is a webscrapper project using nodejs",
+  "private": "true",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "build": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mithamovictor/Node-JS-Webscrapper.git"
+  },
+  "keywords": [],
+  "author": "Karungaru Mithamo",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/mithamovictor/Node-JS-Webscrapper/issues"
+  },
+  "homepage": "https://github.com/mithamovictor/Node-JS-Webscrapper#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
